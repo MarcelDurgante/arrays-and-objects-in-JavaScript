@@ -1,6 +1,6 @@
 # Arrays and Objects in JavaScript
 
-## This was not a code a long project but a deep dive in the intricacies of arrays and objects in JavaScript.
+## This was not a code-along project but a deep dive in the intricacies of arrays and objects in JavaScript.
 
 ### Certification: https://app.pluralsight.com/achievements/share/2b2b3792-ce4b-4692-990e-5b100779d65b
 
